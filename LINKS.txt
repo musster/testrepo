@@ -1,0 +1,11 @@
+https://www.coursera.org/learn/open-source-tools-for-data-science/home/week/2
+
+https://www.udacity.com/courses/all
+
+https://towardsdatascience.com/youre-plotting-the-wrong-things-3914402a3653
+
+https://towardsdatascience.com/the-worst-misconception-in-statistics-488cf73d734e
+
+https://towardsdatascience.com/top-10-statistics-mistakes-made-by-data-scientists-2d58ccf12ab1
+
+https://medium.com/swlh/start-your-data-science-journey-today-37366ee463f
